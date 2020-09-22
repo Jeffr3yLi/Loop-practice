@@ -6,4 +6,4 @@ score = 0
 while number < inty:
     number = 1 + number    
     score = score + number
-print(score)
+print("Final number is " + str(score))
